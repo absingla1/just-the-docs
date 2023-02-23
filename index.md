@@ -5,12 +5,7 @@ has_children: true
 nav_order: 2
 ---
 
----
-layout: default
-title: Buttons
-parent: TPSCRM Overview
-nav_order: 2
----
+
 
 ## TPSCRM Terminology
 ###### Created by David Parker, last modified by Theodore Gauthier on Apr 06, 2021
