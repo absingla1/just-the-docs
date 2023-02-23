@@ -8,7 +8,7 @@ layout: home
 To get started with creating a site, just click "[use this template]"!
 
 ## TPSCRM Terminology
-##### Created by David Parker, last modified by Theodore Gauthier on Apr 06, 2021
+#### Created by David Parker, last modified by Theodore Gauthier on Apr 06, 2021
 To help you better understand some of the common terms used, we’ve collected some quick terminology and corresponding definitions for you based on the most commonly used terms in the Ecosystem.  
 
 
