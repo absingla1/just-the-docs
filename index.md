@@ -16,14 +16,11 @@ To get started with creating a site, just click "[use this template]"!
 |TPSCRM	|Third Party Software Compliance and Risk Management|
 |TPS	| Third Party Software (Open Source or Commercial) |
 |TPSD	 |Third Party Software Digitization (this refers to the entire platform and services, or ecosystem) |
-|TPSCRM |	Third Party Software Compliance and Risk Management
-
-(this refers to the entire platform and services, or ecosystem) |
+|TPSCRM |	Third Party Software Compliance and Risk Management (this refers to the entire platform and services, or ecosystem) |
 
 |TPSD (aka TPSCRM) |	Third Party Software Digitization - Service name changed to TPSCRM, which is synonymous |
 |Security Insights (SI) |	This tool provides visibility into CSDL compliance information for projects, solutions, and hosted services in development at Cisco |
-|Corona (TPS discovery, including binary scanning)	|
-Internal software decomposition and analytics solution harness that integrates with other Cisco development tools and processes to enable the delivery of trustworthy software to our customers by providing enhanced visibility into our products to better understand exposures to security vulnerabilities and asset accounting prior to shipping |
+|Corona (TPS discovery, including binary scanning)	| Internal software decomposition and analytics solution harness that integrates with other Cisco development tools and processes to enable the delivery of trustworthy software to our customers by providing enhanced visibility into our products to better understand exposures to security vulnerabilities and asset accounting prior to shipping |
 
 
 
