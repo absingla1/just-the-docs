@@ -9,12 +9,12 @@ To get started with creating a site, just click "[use this template]"!
 
 ---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| TERM        | DEFINATION          |
+|:-------------|:------------------|
+| Distribute           | this is defined as any product that is for external consumption (not limited to Customers, VARS, Distributors, Field Services, Demo Depot, Capital Leasing, Partners, Labs) |
+| out of stock | good and plenty   | 
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop | 
 
 
 
