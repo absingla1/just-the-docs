@@ -47,6 +47,15 @@ To help you better understand some of the common terms used, we’ve collected s
 | BDBA | Black Duck Binary Analysis (formerly Protocode) – The primary analysis tool to determine Components in a binary file |
 | BDSA |	Black Duck Source Analysis – A tool for scanning source code to determine Components |
 | CSDL |	Cisco Secure Development Lifecycle |
+| CIAM	| Cisco Internal Alert Manager – The tool that looks for vulnerabilities in your registered Components | 
+| CSERV	| Cisco Security Evaluation, Requirements and Validation |
+| CSM |	Common Security Module | 
+| Curioscan | 	Scanning tool focused on run time defense posturing |
+| CVE	| Common Vulnerabilities and Exposures – knows vulnerabilities within a Component |
+| DARE |	Data Aggregation and Reporting Engine – Part of the Cisco's Security Insights program that makes sure your project adheres to minimum security practices |
+| Gambit |	Original code name for Corona. A specific satellite in the Corona program: <https://en.wikipedia.org/wiki/KH-7_Gambit> |
+
+
 
 ---
 
