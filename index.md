@@ -4,8 +4,8 @@ layout: home
 ---
 
 ## TPSCRM Terminology
----
 #### Created by David Parker, last modified by Theodore Gauthier on Apr 06, 2021
+--
 To help you better understand some of the common terms used, we’ve collected some quick terminology and corresponding definitions for you based on the most commonly used terms in the Ecosystem.  
 
 
@@ -121,7 +121,7 @@ Originating System -->
 | MD5                                               | A method of computing a Hash. If two files compute the same MD5 value, they are identical.                                                                                                                                                                                                                                                           |
 | Merging and Splitting                             | Essentially the acts of combining atomic alias names together or splitting them apart                                                                                                                                                                                                                                                                |
 | NFS                                               | Network File System                                                                                                                                                                                                                                                                                                                                  |
-| NIST                                              | National Institute of Standards and Technology < https://nvd.nist.gov/ >                                                                                                                                                                                                                                                                                 |
+| NIST                                              | National Institute of Standards and Technology <https://nvd.nist.gov/>                                                                                                                                                                                                                                                                                 |
 | NPPM                                              | New Product Program Manager                                                                                                                                                                                                                                                                                                                          |
 | NSRL                                              | National Software Reference Library                                                                                                                                                                                                                                                                                                                  |
 | NVD                                               | National Vulnerability Database                                                                                                                                                                                                                                                                                                                      |
