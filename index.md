@@ -3,10 +3,6 @@ title: Home
 layout: home
 ---
 
-[Browse our documentation][just the docs] to learn more about how to use this theme.
-
-To get started with creating a site, just click "[use this template]"!
-
 ## TPSCRM Terminology
 ---
 #### Created by David Parker, last modified by Theodore Gauthier on Apr 06, 2021
