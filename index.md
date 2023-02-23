@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: TPSCRM overview
+layout: home
 ---
 
 [Browse our documentation][just the docs] to learn more about how to use this theme.
