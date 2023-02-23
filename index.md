@@ -20,9 +20,28 @@ To get started with creating a site, just click "[use this template]"!
 |TPSD (aka TPSCRM) |	Third Party Software Digitization - Service name changed to TPSCRM, which is synonymous |
 |Security Insights (SI) |	This tool provides visibility into CSDL compliance information for projects, solutions, and hosted services in development at Cisco |
 |Corona (TPS discovery, including binary scanning)	| Internal software decomposition and analytics solution harness that integrates with other Cisco development tools and processes to enable the delivery of trustworthy software to our customers by providing enhanced visibility into our products to better understand exposures to security vulnerabilities and asset accounting prior to shipping |
-
-
-
+| Black Duck |	Risk management tool designed to help you manage the logistics of using open source software in your organization |
+| TPS Compliance |	Third Party Software (Compliance) Product, Release and Image details related to the compliance requirement actions that must be fulfilled to ensure that a given Product goes from RED to GREEN state |
+| CIAM	| The Cisco Internal Alert Manager (CIAM) is a Cisco-internal tool that alerts engineers about vulnerabilities in their third-party software components|
+|PSIRT |	Cisco Product Security Incident Response Team (PSIRT) is a dedicated, global team that manages the receipt, investigation, and public reporting of security vulnerability information that is related to Cisco products and networks |
+| BE	| (Cisco) Business Entity |
+|BU	 | (Cisco) Business Unit |
+|UI	 | User Interface |
+| Product	| The main service or offering your team is creating | 
+| Release	| Each version of your Product |
+| Image	| A group of Components derived from scanning a binary file that you plan to deliver to a customer mostly automatically discovered via scanning, but can contain manually added Components |
+| CG	| Component Group – Identical to Image except that binary files are not included |
+| Component	| The smallest legal object that has license and vulnerability implications |
+| RM | 	Reusable Module – an Image or Component group shared with other teams to share responsibility for license and vulnerability alerts |
+| BYOS / TPS Manifest BOM	| Bring Your Own Scan. Officially referred to as TPS Manifest BOM. Many cloud and source-only projects don't have a binary file that Corona can scan, so you can provide a list of discovered components using source scanning tools and provide those to Corona |
+| Software BOM	| BOM or Bill of Materials in manufacturing are the components that make up the product. Cisco based software projects also are required to have a Software Bill of Materials. Corona helps you determine what's in your project | 
+|Triage |	Making manual updates to your Software BOM to make sure it is as accurate as possible |
+|Markup	| Information manually added to your Software BOM. This could be version overrides, manually added Components or more |
+| Version-less	| Components where the scanning tools did not find a version for the Component | 
+| VO |	Version Override – Scanning mis-identified a version and you have manually set it |
+| BDBA | Black Duck Binary Analysis (formerly Protocode) – The primary analysis tool to determine Components in a binary file |
+| BDSA |	Black Duck Source Analysis – A tool for scanning source code to determine Components |
+| CSDL |	Cisco Secure Development Lifecycle |
 
 ---
 
